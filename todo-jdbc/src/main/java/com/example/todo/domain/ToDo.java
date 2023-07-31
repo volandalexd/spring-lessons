@@ -1,4 +1,4 @@
-package com.example.todo.client.domain;
+package com.example.todo.domain;
 
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
@@ -10,7 +10,7 @@ import java.util.UUID;
 /**
  * Alexander Denisov<br/>
  * Date: 23.06.2023<br/>
- * Time: 16:26<br/>
+ * Time: 14:45<br/>
  * Copyright 2023 Connective Games LLC. All rights reserved.<br/>
  */
 @Data
